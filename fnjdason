@@ -1,4 +1,4 @@
-
+{
   const allowedIps = {
     allowed_ips: [
       "209.38.87.70",
