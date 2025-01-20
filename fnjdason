@@ -1,6 +1,7 @@
 {
   "allowed_ips": [
-    "170.64.171.188",  #SankaVollerei
+  //Sanka Vollerei
+ "170.64.171.188",
     "",
     ""
   ]
