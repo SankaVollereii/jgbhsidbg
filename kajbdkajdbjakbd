@@ -2,11 +2,11 @@
     "allowed_ips": [
         {
             "ip": "146.190.160.22",
-            "username": "Sanka Vollerei"
+            "username": 'Sanka Vollerei'
         },
         {
             "ip": "157.230.32.167",
-            "username": "Sanka Vollerei"
+            "username": 'Sanka Vollerei'
         },
         {
             "ip": "",
