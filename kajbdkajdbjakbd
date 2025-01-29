@@ -9,12 +9,16 @@
             "username": "Sanka Vollerei"
         },
         {
-            "ip": "192.168.1.1",
-            "username": "username1"
+            "ip": "",
+            "username": ""
         },
         {
-            "ip": "192.168.1.2",
-            "username": "username2"
+            "ip": "",
+            "username": ""
+        },
+        {
+            "ip": "",
+            "username": ""
         }
     ]
 }
