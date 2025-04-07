@@ -9,55 +9,68 @@
 
         {
             "ip": "35.94.202.168",
-            "username": "AkuDaazan"
+            "username": "AkuDaazan",
+            "nomorbot": ""
         },
         {
              "ip": "161.35.127.83",
-            "username": "Lady Amethyst"
+            "username": "Lady Amethyst",
+            "nomorbot": ""
         },
         {
              "ip": "35.94.202.168",
-             "username": "xinz"
+             "username": "xinz",
+            "nomorbot": ""
         },
         {
             "ip": "138.197.96.93",
-            "username": "LuccaneXz"
+            "username": "LuccaneXz",
+            "nomorbot": ""
         },
         {
             "ip": "35.94.202.168",
-            "username": "Sanka Vollerei"
+            "username": "Sanka Vollerei",
+            "nomorbot": ""
         },
         {
             "ip": "35.94.202.168",
-            "username": "yanzz"
+            "username": "yanzz",
+            "nomorbot": ""
         },
         {
             "ip": "35.94.202.168",
-            "username": "Miaw"
+            "username": "Miaw",
+            "nomorbot": ""
         },
         {
             "ip": "35.94.202.168",
-            "username": ""
+            "username": "",
+            "nomorbot": ""
          },
          {
             "ip": "",
-            "username": ""
+            "username": "",
+            "nomorbot": ""
          },
          {
             "ip": "",
-            "username": ""
+            "username": "",
+            "nomorbot": ""
          },
          {
             "ip": "",
-            "username": ""
+            "username": "",
+            "nomorbot": ""
          },
          {
             "ip": "",
-            "username": ""
+            "username": "",
+            "nomorbot": ""
         },
         {
             "ip": "35.94.202.168",
-            "username": "Plana AI"
+            "username": "Plana AI",
+            "nomorbot": ""
         }
     ]
 }
