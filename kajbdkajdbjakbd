@@ -3,74 +3,60 @@
         
         {
             "ip": "161.35.127.83",
-            "username": "Sanka Vollerei",
-            "nomorbot": "6287831808378"
+            "username": "Sanka Vollerei"
         },
 
         {
             "ip": "35.94.202.168",
-            "username": "AkuDaazan",
-            "nomorbot": "6282258358276"
+            "username": "AkuDaazan"
         },
         {
              "ip": "161.35.127.83",
-            "username": "Lady Amethyst",
-            "nomorbot": "6285123141462"
+            "username": "Lady Amethyst"
         },
         {
              "ip": "35.94.202.168",
-             "username": "xinz",
-            "nomorbot": "6281247579338"
+             "username": "xinz"
         },
         {
             "ip": "138.197.96.93",
-            "username": "LuccaneXz",
-            "nomorbot": "6283826148348"
+            "username": "LuccaneXz"
         },
         {
             "ip": "35.94.202.168",
-            "username": "Sanka Vollerei",
-            "nomorbot": ["6285838836448", "6281818754362", "6287839756797"]
+            "username": "Sanka Vollerei"
         },
         {
             "ip": "35.94.202.168",
-            "username": "yanzz",
-            "nomorbot": ""
+            "username": "yanzz"
         },
         {
             "ip": "35.94.202.168",
-            "username": "Miaw",
-            "nomorbot": "6283870776929"
+            "username": "Miaw"
         },
         {
             "ip": "",
-            "username": "",
-            "nomorbot": ""
+            "username": ""
          },
          {
             "ip": "",
-            "username": "",
-            "nomorbot": ""
+            "username": ""
          },
          {
             "ip": "",
-            "username": "",
-            "nomorbot": ""
+            "username": ""
          },
          {
             "ip": "",
-            "username": "",
-            "nomorbot": ""
+            "username": ""
          },
          {
             "ip": "",
-            "username": "",
-            "nomorbot": ""
+            "username": ""
         },
         {
             "ip": "35.94.202.168",
-            "username": "Plana AI",
-            "nomorbot": "6289517327505"
+            "username": "Plana AI"
         }
     ]
 }
