@@ -2,37 +2,37 @@
     "allowed_ips": [
         
         {
-            "ip": "161.35.127.83",
-            "username": "Sanka Vollerei"
+            "ip": "",
+            "username": ""
         },
 
         {
-            "ip": "35.94.202.168",
-            "username": "AkuDaazan"
+            "ip": "",
+            "username": ""
         },
         {
-             "ip": "161.35.127.83",
-            "username": "Lady Amethyst"
+             "ip": "",
+            "username": ""
         },
         {
-             "ip": "35.94.202.168",
-             "username": "xinz"
+             "ip": "",
+             "username": ""
         },
         {
             "ip": "138.197.96.93",
             "username": "LuccaneXz"
         },
         {
-            "ip": "35.94.202.168",
-            "username": "Sanka Vollerei"
+            "ip": "",
+            "username": ""
         },
         {
-            "ip": "35.94.202.168",
-            "username": "yanzz"
+            "ip": "",
+            "username": ""
         },
         {
-            "ip": "35.94.202.168",
-            "username": "Miaw"
+            "ip": "",
+            "username": ""
         },
         {
             "ip": "",
@@ -55,8 +55,8 @@
             "username": ""
         },
         {
-            "ip": "35.94.202.168",
-            "username": "Plana AI"
+            "ip": "",
+            "username": ""
         }
     ]
 }
